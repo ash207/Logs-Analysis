@@ -9,10 +9,10 @@
     3. On which days did more than 1% of requests lead to errors?
 
 ### Requirements
-  
-  [Python3](https://www.python.org/)
-  [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
-  [Vagrant](https://www.vagrantup.com/downloads.html)
+
+  - [Python3](https://www.python.org/)
+  - [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+  - [Vagrant](https://www.vagrantup.com/downloads.html)
 
 ### Setup
 
