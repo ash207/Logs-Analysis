@@ -16,12 +16,12 @@
 
 ### Setup
 
-  1. Download and unzip the [VM configuration](https://d17h27t6h515a5.cloudfront.net/topher/2017/May/59125904_fsnd-virtual-machine/fsnd-virtual-machine.zip). This will give you a directory called FSND-Virtual-Machine
+  1. Download and unzip the [VM configuration](https://d17h27t6h515a5.cloudfront.net/topher/2017/May/59125904_fsnd-virtual-machine/fsnd-virtual-machine.zip). This will give you a directory called FSND-Virtual-Machine.
   2. `cd` to this directory and then to the vagrant directory located within.
   3. In your terminal bring the virtual machine online by using the command `vagrant up`.
   4. Log into the virtual machine with `vagrant ssh`.
   5. Download this [data](https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip), unzip it, and place the contained SQL file in the vagrant directory.
-  6. Load the data with this command: `psql -d news -f newsdata.sql`
+  6. Load the data with this command: `psql -d news -f newsdata.sql`.
 
 ### Run
 
